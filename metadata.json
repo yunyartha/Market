@@ -1,0 +1,6 @@
+{
+  "name": "Market Structure Explorer & Interactive Games",
+  "description": "Interactive economics and social studies learning platform for understanding market structures with interactive games, visual simulations, and teacher tools.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
